@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6532" started-at="2022-07-11T10:03:30 CDT" finished-at="2022-07-11T10:03:37 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6532" started-at="2022-07-11T10:03:30 CDT" finished-at="2022-07-11T10:03:37 CDT">
+      <class name="test.Colour_Background">
+        <test-method status="PASS" signature="backgroundColor()[pri:0, instance:test.Colour_Background@4d95d2a2]" name="backgroundColor" duration-ms="6495" started-at="2022-07-11T10:03:30 CDT" finished-at="2022-07-11T10:03:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backgroundColor -->
+      </class> <!-- test.Colour_Background -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
